@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/pics">
+        <file>pixelPlayer1.png</file>
+        <file>pixelPlayer1Frame2.png</file>
+        <file>pixelPlayer2.png</file>
+        <file>pixelPlayer2Frame2.png</file>
+        <file>mainIcon.png</file>
+        <file>helpIcon.png</file>
+    </qresource>
+</RCC>
